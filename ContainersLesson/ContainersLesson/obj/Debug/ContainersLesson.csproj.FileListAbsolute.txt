@@ -1,0 +1,15 @@
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\bin\Debug\ContainersLesson.exe.config
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\bin\Debug\ContainersLesson.exe
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\bin\Debug\ContainersLesson.pdb
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\ContainersLesson.csprojAssemblyReference.cache
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\MainWindow.g.cs
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\App.g.cs
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\ContainersLesson_MarkupCompile.cache
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\ContainersLesson_MarkupCompile.lref
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\MainWindow.baml
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\ContainersLesson.g.resources
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\ContainersLesson.Properties.Resources.resources
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\ContainersLesson.csproj.GenerateResource.cache
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\ContainersLesson.csproj.CoreCompileInputs.cache
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\ContainersLesson.exe
+C:\Users\ТажибекА\source\repos\ContainersLesson\ContainersLesson\obj\Debug\ContainersLesson.pdb
